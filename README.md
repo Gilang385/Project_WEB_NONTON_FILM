@@ -20,6 +20,9 @@ STORY BOARD WEB NONTON FILM (WMovies)
   Pencarian: Pengguna dapat mencari film dengan memasukkan judulnya di kotak pencarian pada halaman utama
 
 
+Video 
+
+https://github.com/user-attachments/assets/b11bf936-0ad5-44c0-beab-0d5cc618218f
 
 STORY BOARD
 
